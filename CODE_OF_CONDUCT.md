@@ -36,7 +36,14 @@ This Code of Conduct applies within all project spaces, and it also applies when
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership.
+## Enforcement Guidelines
+
+Project maintainers will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+1.  **Correction**: A private, written warning from project maintainers, explaining the nature of the violation and an explanation of why the behavior was inappropriate.
+2.  **Warning**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time.
+3.  **Temporary Ban**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time.
+4.  **Permanent Ban**: A permanent ban from any sort of interaction or public communication with the community.
 
 ## Attribution
 

@@ -1,5 +1,6 @@
 {
   "artifactType": "ARTIFACT_TYPE_OTHER",
-  "summary": "Coursera Lab File: CODE_OF_CONDUCT.md",
-  "updatedAt": "2026-01-18T12:11:11.389915Z"
+  "summary": "Updated CODE_OF_CONDUCT.md to include the missing 'Enforcement Guidelines' section required by the grader.",
+  "updatedAt": "2026-01-18T12:31:58.878019100Z",
+  "version": "1"
 }
